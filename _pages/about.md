@@ -48,39 +48,41 @@ I also hope to be able to provide solutions to solve business problems using dat
 
 ---
 
-### Programming skills I gained this year (2021):  
-Kindly refer to my blog posts in this site for the detailed programming journey I embarked on this year.
+### Programming skills I gained in 2021:  
+Kindly refer to my blog posts in this site for the detailed programming journey I embarked on this year.  
 
-### Digital & business skills I gained this year (2021):  
--	_Jan 2021:_  
+### Digital & Business skills I gained in 2021:  
+
+_Jan 2021:_  
 Attended a Scrum course and learnt about Agile methodologies and how Agile helps to create effective teams.  
     - Attained the ScrumMaster certification issued by Scrum Alliance.
         - Learnt to apply scrum practices like sprint planning, planning/inserting/shifting tasks in product backlogs, setting definitions of 'done' for tasks, sprint review and sprint retrospectives.  
--	_Feb 2021:_  
+
+_Feb 2021:_  
 I enrolled in a 6-month digital upskilling program called [RISE](https://rise.bcg.com/business-data-analytics/), an initiative by Boston Consulting Group (BCG), in the business and data analytics track, to build my business and digital skills.  
 The course is currently ongoing, and is expected to end in early Aug 2021.  
     - Gained business skills including creative problem solving, modelling and analysis, story lining and slide writing.  
-    - Completed a case project and presentation on how to increase Apple's consumer electronics revenues, in a team of 6 members.
-        - Examples of problem solving skills applied includes SCQ (Situation Complication Question) framework, basic data modelling involving use of assumptions and based on relevant historical or projected datasets across the different years (e.g. revenues by products, revenues by country, product price comparisons, technology brand values & more), story lining and slide writing.
--	_Mar 2021:_  
+    - Completed a case project and presentation on how to increase Apple's consumer electronics revenues, in a team of 6 members.  
+        - Examples of problem solving skills applied includes SCQ (Situation Complication Question) framework, basic data modelling involving use of assumptions and based on relevant historical or projected datasets across the different years (e.g. revenues by products, revenues by country, product price comparisons, technology brand values & more), story lining and slide writing.  
+
+_Mar 2021:_  
 In RISE by BCG, in the month of Mar 2021:  
-    - Attained human centred design (HCD) skills involving the 4 main phases of research, synthesise, produce & evaluate. 
-    - Completed a case project and presentation on how to improve the customer journey for a non tech-savvy Starhub mobile phone and plan customer, in the same team of 6 members.
+    - Attained human centred design (HCD) skills involving the 4 main phases of research, synthesise, produce & evaluate.  
+    - Completed a case project and presentation on how to improve the customer journey for a non tech-savvy Starhub mobile phone and plan customer, in the same team of 6 members.  
         - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
         - Methods used involved Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
-    I also took up a 2-day online course by DigitalBCG Academy, did multiple hands-on PowerBI practices using sample datasets, and also went through another PowerBI course on LinkedIn Learning.  
+I also took up a 2-day online course by DigitalBCG Academy, did multiple hands-on PowerBI practices using sample datasets, and also went through another PowerBI course on LinkedIn Learning.  
     - Now, I am confident in using PowerBI, a data visualisation tool.  
  
-- _Apr 2021:_  
+_Apr 2021:_  
 In RISE by BCG, in the month of Apr 2021:  
-    - Completed a case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in Sentosa when visiting Singapore, in the same team of 6 members.
+    - Completed a case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in Sentosa when visiting Singapore, in the same team of 6 members.  
         - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
-        - Methods used involved Card Sorting, Affinity diagramming, DVF 
-Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
+        - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
-            > As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways.  
+        > As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways.  
         
-            > We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong.  
+        > We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong.  
             
-            > We played to our strengths in the project and presentation, as all of us had strengths especially in different areas: - project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness - all these contributed to a great team outcome.  
+        > We played to our strengths in the project and presentation, as all of us had strengths especially in different areas: - project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness - all these contributed to a great team outcome.  
