@@ -4,9 +4,7 @@ title: My Programming Journey - Initial Challenges & Next Steps
 categories: Miscellaneous
 ---
 
-#### INITIAL CHALLENGES & NEXT STEPS  
-
-##### _Challenges when I first started:_  
+##### _Challenges when I first started learning programming:_  
 
 When I tried to self-teach myself programming, initially I felt overwhelmed by the huge number of resources online from various sites. It was confusing as to where to start learning, which language to learn, figuring out what and how to learn.  
 
