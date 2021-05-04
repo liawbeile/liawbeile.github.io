@@ -12,7 +12,7 @@ author: Liaw Bei Le
 description: My programming journey
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: C:\Users\liawb\Downloads\profilepic.jpg
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
-  facebook:
+  email: liawbeile@gmail.com
+  facebook: https://www.facebook.com/liawbeile/
   flickr:
-  github: amitmerchant1990/reverie
-  instagram:
-  linkedin: 
+  github: https://github.com/liawbeile
+  instagram: https://www.instagram.com/lervx/
+  linkedin: https://www.linkedin.com/in/coraliawbeile/
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
