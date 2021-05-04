@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: ABOUT
 permalink: /about/
 ---
 
 Welcome to my programming site. I hope you find the things here informative and useful, be it for your learning, or for your discovery about my learning process.
 
-## **BACKGROUND:**  
+## BACKGROUND:  
 Hello, I am Bei Le, an ex-KPMG Senior Auditor with approx. 2.4 years of audit work experience in the Big 4 Accounting Firm (2018-2020).
 I am also a Nanyang Technological University (NTU) graduate with a bachelors’ degree in Accountancy (2nd upper hons.).
 
@@ -17,15 +17,15 @@ I am also a Nanyang Technological University (NTU) graduate with a bachelors’ 
 This year (2021), I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed below.  
 
 
-## **WHY I LEARN PROGRAMMING:**  
+## WHY I LEARN PROGRAMMING:  
 
-### **_Creating value & Employability:_**  
+### _Creating value & Employability:_  
 
 Digital skills are getting increasingly relevant in today’s world, and knowing about programming languages and how to use them are some of the most sought-after tech skills which employers value and that are essential in problem solving, increasing productivity, creating products and generating solutions.  
 
 When I searched for job opportunities where I could learn new skills to upgrade myself, many job descriptions state a preference for candidates to have aptitudes in various programming languages, especially Python and SQL.  
 
-### **_Upskilling myself & Finding purpose:_**  
+### _Upskilling myself & Finding purpose:_  
 
 As my course of study and work did not require coding skills and knowledge previously, I felt that I had missed out on learning how to program.  
 
@@ -39,7 +39,7 @@ These are reasons why I wish to pivot from audit, which is more administrative i
 
 These give me a higher sense of achievement and fulfilment.  
 
-## **MY GOALS:**    
+## MY GOALS:    
 
 I hope that by embarking on this learning journey, I can hone my programming & business skills.  
 
@@ -48,10 +48,10 @@ I also hope to be able to provide solutions to solve business problems using dat
 
 ---
 
-### **Programming skills I gained this year (2021):**  
+### Programming skills I gained this year (2021):  
 Kindly refer to my blog posts in this site for the detailed programming journey I embarked on this year.
 
-### **Digital & business skills I gained this year (2021):**  
+### Digital & business skills I gained this year (2021):  
 -	_Jan 2021:_  
 Attended a Scrum course and learnt about Agile methodologies and how Agile helps to create effective teams.  
     - Attained the ScrumMaster certification issued by Scrum Alliance.
@@ -78,6 +78,7 @@ In RISE by BCG, in the month of Apr 2021:
         - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
         - Methods used involved Card Sorting, Affinity diagramming, DVF 
 Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
+
             > As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways.  
         
             > We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong.  
