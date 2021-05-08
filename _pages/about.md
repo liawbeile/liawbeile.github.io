@@ -10,7 +10,7 @@ Welcome. I hope you find the things here informative and useful for your learnin
 
 Hello there!  
 
-I am **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**.  
+My name is **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**.  
 
 Presently, I am participating in the Boston Consulting Group's [RISE](https://rise.bcg.com/business-data-analytics/) programme, a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
 
