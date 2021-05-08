@@ -4,16 +4,15 @@ title: ABOUT
 permalink: /about/
 ---
 
-Welcome to my programming site. I hope you find the things here informative and useful for your learning or your discovery about my learning process.
+Welcome, I hope you find the things here informative and useful for your learning, or for your discovery about my learning process.
 
 ## BACKGROUND:  
-Hello there! I am Bei Le, an ex-KPMG Senior Auditor with approx. 2-3 years of audit work experience in the Big 4 Accounting Firm (2018-2020).
-I am also a Nanyang Technological University (NTU) graduate with a bachelors’ degree in Accountancy (2nd upper hons.).  
+Hello there! I am **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**, an ex-KPMG Senior Auditor with approx. 2-3 years of audit work experience in the Big 4 Accounting Firm (2018-2020) & a Nanyang Technological University (NTU) graduate with a bachelors’ degree in Accountancy (2nd upper hons.).  
 > Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.
 >
 > In my audit career in KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and I could import, sanitise and transform data as needed into their new data analytics platform, KPMG CLARA.  
 
-This year (2021), I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed below.  
+This year (2021), I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed [below](###programming-skills-i-gained-in-2021:).  
 
 
 ## WHY I LEARN PROGRAMMING:  
@@ -48,7 +47,7 @@ I also hope to be able to provide solutions to solve business problems using dat
 ---
 
 ### Programming skills I gained in 2021:  
-Kindly refer to my blog posts in this site for the detailed programming journey I embarked on this year.  
+Kindly refer to my [blog posts](https://liawbeile.github.io/) in this site for the detailed programming journey I embarked on this year.  
 
 ### Digital & Business skills I gained in 2021:  
 
