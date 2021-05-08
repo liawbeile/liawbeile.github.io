@@ -4,7 +4,9 @@ title: ABOUT
 permalink: /about/
 ---
 
-Welcome. I hope you find the things here informative and useful for your learning or for your discovery about my learning process.
+Welcome.  
+
+I hope you find the things here informative and useful for your learning or for your discovery about my learning process.
 
 ## BACKGROUND:  
 
@@ -48,6 +50,7 @@ These give me a higher sense of achievement and fulfilment.
 I hope that by embarking on this learning journey, I can hone my programming & business skills.  
 
 Eventually, I want to become a more effective problem solver who can create useful algorithms & solutions such as mobile apps, websites and games etc. as I become more proficient and confident in programming.  
+
 I also hope to be able to provide solutions to solve business problems using data analytics and problem solving skills.  
 
 ---
@@ -63,7 +66,8 @@ Attended a Scrum course and learnt about Agile methodologies and how Agile helps
      - Learnt to apply scrum practices like sprint planning, planning/inserting/shifting tasks in product backlogs, setting definitions of 'done' for tasks, sprint review and sprint retrospectives.  
 
 **_Feb 2021:_**  
-I enrolled in a 6-month digital upskilling program called [RISE](https://rise.bcg.com/business-data-analytics/), an initiative by Boston Consulting Group (BCG), in the business and data analytics track, to build my business and digital skills.  
+I enrolled in a 6-month digital upskilling program called [RISE by Boston Consulting Group (BCG)](https://rise.bcg.com/business-data-analytics/) in the business and data analytics track, to build my business and digital skills.  
+
 The course is currently ongoing, and is expected to end in early Aug 2021.  
 - Gained business skills including creative problem solving, modelling and analysis, story lining and slide writing.  
 - Completed a case project and presentation on how to increase A. Co.'s consumer electronics revenues, in a team of 6 members.  
@@ -77,7 +81,7 @@ In RISE by BCG, in the month of Mar 2021:
     - Methods used involved Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
 - I also took up a 2-day online PowerBI course by DigitalBCG Academy, did multiple hands-on PowerBI practices using sample datasets including COVID data (confirmed cases, deaths, countries, across time) and Sales data (manufacturers, products, across time).  
-Further, I took another PowerBI course on LinkedIn Learning.  
+- Further, I took another PowerBI course on LinkedIn Learning.  
     - Now, I am confident in using PowerBI, a data visualisation tool.  
  
 **_Apr 2021:_**  
