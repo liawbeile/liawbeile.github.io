@@ -7,7 +7,11 @@ permalink: /about/
 Welcome. I hope you find the things here informative and useful for your learning or for your discovery about my learning process.
 
 ## BACKGROUND:  
-Hello there! I am **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**, an ex-KPMG Senior Auditor with approx. 2-3 years of audit work experience in the Big 4 Accounting Firm (2018-2020) & a Nanyang Technological University (NTU) graduate with a bachelors’ degree in Accountancy (2nd upper hons.).  
+Hello there! I am **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**.  
+
+Presently, I am participating in the Boston Consulting Group's [RISE](https://rise.bcg.com/business-data-analytics/) programme, a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
+
+I am an ex-KPMG Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a Nanyang Technological University (NTU) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
 
 > Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.  
 >
@@ -61,13 +65,13 @@ Attended a Scrum course and learnt about Agile methodologies and how Agile helps
 I enrolled in a 6-month digital upskilling program called [RISE](https://rise.bcg.com/business-data-analytics/), an initiative by Boston Consulting Group (BCG), in the business and data analytics track, to build my business and digital skills.  
 The course is currently ongoing, and is expected to end in early Aug 2021.  
 - Gained business skills including creative problem solving, modelling and analysis, story lining and slide writing.  
-- Completed a case project and presentation on how to increase Apple's consumer electronics revenues, in a team of 6 members.  
+- Completed a case project and presentation on how to increase A. Co.'s consumer electronics revenues, in a team of 6 members.  
     - Examples of problem solving skills applied includes SCQ (Situation Complication Question) framework, basic data modelling involving use of assumptions and based on relevant historical or projected datasets across the different years (e.g. revenues by products, revenues by country, product price comparisons, technology brand values & more), story lining and slide writing.  
 
 **_Mar 2021:_**  
 In RISE by BCG, in the month of Mar 2021:  
 - Attained human centred design (HCD) skills involving the 4 main phases of research, synthesise, produce & evaluate.  
-- Completed a case project and presentation on how to improve the customer journey for a non tech-savvy Starhub mobile phone and plan customer, in the same team of 6 members.  
+- Completed a case project and presentation on how to improve the customer journey for a non tech-savvy S. Co. mobile phone and plan customer, in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
@@ -76,7 +80,7 @@ I also took up a 2-day online course by DigitalBCG Academy, did multiple hands-o
  
 **_Apr 2021:_**  
 In RISE by BCG, in the month of Apr 2021:  
-- Completed a case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in Sentosa when visiting Singapore, in the same team of 6 members.  
+- Completed a case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in S. Corporation when visiting Singapore, in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
