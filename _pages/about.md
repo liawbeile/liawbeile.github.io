@@ -7,7 +7,7 @@ permalink: /about/
 Welcome to my programming site. I hope you find the things here informative and useful for your learning or your discovery about my learning process.
 
 ## BACKGROUND:  
-Hello there! I am Bei Le, an ex-KPMG Senior Auditor with approx. 2.4 years of audit work experience in the Big 4 Accounting Firm (2018-2020).
+Hello there! I am Bei Le, an ex-KPMG Senior Auditor with approx. 2-3 years of audit work experience in the Big 4 Accounting Firm (2018-2020).
 I am also a Nanyang Technological University (NTU) graduate with a bachelors’ degree in Accountancy (2nd upper hons.).  
 > Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.
 >
