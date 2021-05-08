@@ -14,7 +14,7 @@ Hello there!
 
 My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.  
 
-**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/) , a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
+**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/), a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
 
 **I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
 
