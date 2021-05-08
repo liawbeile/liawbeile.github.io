@@ -16,9 +16,9 @@ My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.
 
 **I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
 
-**Before 2021**, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise and transform financial data using KPMG CLARA data analytics platform.  
+**Before 2021**, I largely specialise in finance / accounting / auditing, and am proficient in Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise and transform financial data using KPMG CLARA data analytics platform.  
 
-**This year, 2021**, I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed **[below](#programming-skills-i-gained-in-2021)**.  
+**This year, 2021**, I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey and the skills I have gained are detailed **[below](#programming-skills-i-gained-in-2021)**.  
 
 
 ## WHY I LEARN PROGRAMMING:  
