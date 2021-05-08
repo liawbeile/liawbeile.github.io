@@ -8,7 +8,7 @@ Welcome. I hope you find the things here informative and useful for your learnin
 
 ## BACKGROUND:  
 
-**Hello there!**  
+Hello there!  
 
 My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.  
 
