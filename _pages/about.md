@@ -8,17 +8,17 @@ Welcome. I hope you find the things here informative and useful for your learnin
 
 ## BACKGROUND:  
 
-Hello there!  
+**Hello there!**  
 
 My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.  
 
-Presently, I am participating in the Boston Consulting Group's [RISE](https://rise.bcg.com/business-data-analytics/) programme, a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
+**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/) , a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
 
-I am an ex-KPMG Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a Nanyang Technological University (NTU) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
+**I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
 
-I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise and transform financial data using KPMG CLARA data analytics platform.  
+**Before 2021**, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise and transform financial data using KPMG CLARA data analytics platform.  
 
-This year (2021), I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed **[below](#programming-skills-i-gained-in-2021)**.  
+**This year, 2021**, I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed **[below](#programming-skills-i-gained-in-2021)**.  
 
 
 ## WHY I LEARN PROGRAMMING:  
