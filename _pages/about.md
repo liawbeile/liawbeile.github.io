@@ -8,15 +8,17 @@ Welcome. I hope you find the things here informative and useful for your learnin
 
 ## BACKGROUND:  
 
-Hello there! I am **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**.  
+Hello there!  
+
+I am **[Cora Liaw Bei Le](www.linkedin.com/in/coraliawbeile)**.  
 
 Presently, I am participating in the Boston Consulting Group's [RISE](https://rise.bcg.com/business-data-analytics/) programme, a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
 
 I am an ex-KPMG Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a Nanyang Technological University (NTU) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
 
->> Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.  
->>
->> In my audit career in KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and I could import, sanitise and transform data as needed into their new data analytics platform, KPMG CLARA.  
+>Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.  
+>
+>In my audit career in KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and I could import, sanitise and transform data as needed into their new data analytics platform, KPMG CLARA.  
 
 This year (2021), I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed **[below](#programming-skills-i-gained-in-2021)**.  
 
@@ -84,9 +86,10 @@ In RISE by BCG, in the month of Apr 2021:
 - Completed a case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in S. Corporation when visiting Singapore, in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
+- Applied SCRUM / Agile practices during group project meetings by means of sprint planning, sprint reviews, sprint retrospectives after every 1-2 meetings.  
 
-        _As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._  
-        
-         _We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._             
-        
-        _We played to our strengths in the project and presentation, as all of us had strengths especially in different areas: - project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness - all these contributed to a great team outcome._  
+    >_As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._  
+    >     
+    >_We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._             
+    >    
+    >_We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
