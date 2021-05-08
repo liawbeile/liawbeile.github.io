@@ -13,9 +13,9 @@ Presently, I am participating in the Boston Consulting Group's [RISE](https://ri
 
 I am an ex-KPMG Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a Nanyang Technological University (NTU) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
 
-> Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.  
->
-> In my audit career in KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and I could import, sanitise and transform data as needed into their new data analytics platform, KPMG CLARA.  
+>> Before 2021, I largely specialise in finance-related aspects and knowledge / auditing in terms of hard skills, and am proficient in using standard software programmes such as Microsoft Excel, PowerPoint, Word, Outlook, etc.  
+>>
+>> In my audit career in KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and I could import, sanitise and transform data as needed into their new data analytics platform, KPMG CLARA.  
 
 This year (2021), I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey is detailed **[below](#programming-skills-i-gained-in-2021)**.  
 
