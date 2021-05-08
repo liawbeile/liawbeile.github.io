@@ -76,8 +76,9 @@ In RISE by BCG, in the month of Mar 2021:
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
-I also took up a 2-day online course by DigitalBCG Academy, did multiple hands-on PowerBI practices using sample datasets, and also went through another PowerBI course on LinkedIn Learning.  
-- Now, I am confident in using PowerBI, a data visualisation tool.  
+- I also took up a 2-day online PowerBI course by DigitalBCG Academy, did multiple hands-on PowerBI practices using sample datasets including COVID data (confirmed cases, deaths, countries, across time) and Sales data (manufacturers, products, across time).  
+Further, I took another PowerBI course on LinkedIn Learning.  
+    - Now, I am confident in using PowerBI, a data visualisation tool.  
  
 **_Apr 2021:_**  
 In RISE by BCG, in the month of Apr 2021:  
