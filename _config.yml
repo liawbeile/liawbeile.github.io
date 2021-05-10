@@ -20,20 +20,20 @@ avatar: https://media-exp1.licdn.com/dms/image/C5603AQEz4LRj5xjmig/profile-displ
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  #dribbble:
   email: liawbeile@gmail.com
-  facebook: liawbeile/
-  flickr:
+  #facebook:
+  #flickr:
   github: liawbeile
-  instagram: lervx
+  #instagram: 
   linkedin: coraliawbeile
-  pinterest:
-  rss: rss
-  twitter: 
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
+  #pinterest:
+  #rss:
+  #twitter: 
+  #stackoverflow: 
+  #youtube: # channel/<your_long_string> or user/<user-name>
+  #googleplus: # anything in your profile username that comes after plus.google.com/
+  #playconsole:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

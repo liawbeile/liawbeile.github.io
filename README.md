@@ -1,29 +1,37 @@
 <div align="center">
   <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C5603AQEz4LRj5xjmig/profile-displayphoto-shrink_800_800/0/1617568494109?e=1626307200&v=beta&t=jc2OQfEbOhMMrDMRKlycO6fQT9NZADAxntNW0vIMWtU" alt="Profile Pic" width="200"/>
   <br>  
   <p align="center">
-    <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
+    <i>Check out my LinkedIn profile via <a href="https://www.linkedin.com/in/coraliawbeile/">LinkedIn</a></i>
     •
-    <i>Would you be interested in <a href="https://www.producthunt.com/upcoming/reverie-pro">Reverie Pro</a>?</i>
+    <i>Drop a message or contact me <a href="https://www.producthunt.com/upcoming/reverie-pro">here</a></i>
   </p>
 </div>
 
 ---
+Hello! I am Cora Liaw Bei Le.  
 
-Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
+I am currently participating in Boston Consulting Group's RISE programme in the Business and Data Analytics track. 
 
+I am an ex-KPMG Senior Auditor and a Nanyang Technological University (NTU) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.)   
+
+This year, 2021, I am seeking to pivot to the tech / data analytics field. My endeavours in this journey and the skills I have gained are detailed in [my blog](https://liawbeile.github.io/about/).  
+
+Happy reading! 
+
+<!-- 
 > [Theme demo](https://reverie-jekyll.netlify.app/)
 
-This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment.
+This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment. -->
 
-![](/images/reverie-demo.png)
+<!-- ![](/images/reverie-demo.png)
 
 |  Responsiveness            |  Search | Categories |
 |---------------------|----------------------|----------------------|
-|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
+|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) | -->
 
-# Table of Contents
+<!-- # Table of Contents
   - [Features overview](#features-overview)
   - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
     - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
@@ -131,4 +139,4 @@ reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><
 
 ## License
 
-MIT
+MIT -->
