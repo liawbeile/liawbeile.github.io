@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1: My Programming Journey - Initial Challenges & Next Steps
+title: Week 1 - Initial Challenges & Next Steps in My Programming Journey 
 categories: Reflections
 ---
 
