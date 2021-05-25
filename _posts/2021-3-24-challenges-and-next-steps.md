@@ -4,7 +4,7 @@ title: Week 1 - Initial Challenges & Next Steps in My Programming Journey
 categories: Reflections
 ---
 
-## Challenges when I first started programming:  
+## My Initial Challenges:  
 
 When I tried to self-teach myself programming, initially I felt overwhelmed by the huge number of resources online from various sites. It was confusing as to where to start learning, which language to learn, figuring out what and how to learn.  
 
