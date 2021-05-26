@@ -5,7 +5,7 @@
   <p align="center">
     <i>Check out my LinkedIn profile via <a href="https://www.linkedin.com/in/coraliawbeile/">LinkedIn</a></i>
     •
-    <i>Drop a message or contact me <a href="https://www.producthunt.com/upcoming/reverie-pro">here</a></i>
+    <i>Drop a message or contact me <a href="mailto:liawbeile@hotmail.com">here</a></i>
   </p>
 </div>
 
