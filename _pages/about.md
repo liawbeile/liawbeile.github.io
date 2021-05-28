@@ -8,8 +8,6 @@ Welcome.
 
 I hope you find the things here informative and useful for your learning or for your discovery about my learning process.
 
-## ABOUT ME:  
-  
 <div align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C5603AQEz4LRj5xjmig/profile-displayphoto-shrink_800_800/0/1617568494109?e=1626307200&v=beta&t=jc2OQfEbOhMMrDMRKlycO6fQT9NZADAxntNW0vIMWtU" alt="Profile Pic" width="200"/>
 </div>  
@@ -18,18 +16,50 @@ Hello there!
 
 My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.  
 
-**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/), a 6 month upskilling course, in the Business and Data Analytics track _(2021)_. Read below for more details.
+**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/), a 6 month upskilling course, in the Business and Data Analytics track _(2021)_.
 
-**I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (2nd Upper Hons.) _(2015-2018)_.  
+**I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (Honours, Distinction) _(2015-2018)_.  
 
-**Before 2021**, I largely specialise in finance / accounting / auditing, and am proficient in Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise and transform financial data using KPMG CLARA data analytics platform.  
+**Before 2021**, I largely specialise in finance / accounting / auditing, and am proficient in Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise, transform and analyse financial data using KPMG CLARA data analytics platform.  
 
-**This year, 2021**, I am seeking to pivot to the tech/ data analytics field. My endeavours in this journey and the skills I have gained are detailed **[below](#programming-skills-i-gained-in-2021)**.  
+**This year, 2021**, I am seeking to gain tech/ data analytics skills and learn more about coding. My endeavours and the skills I have gained are detailed **[below](#programming-skills-i-gained)**.  
+  
+  
+---  
+  
+  
+## WHY I LEARN PROGRAMMING:  
 
----
+**Creating Value:**  
+
+Digital skills are getting increasingly relevant in today’s world, and knowing about programming languages and how to use them are some of the most sought-after tech skills which employers value and that are essential in problem solving, increasing productivity, creating products and generating solutions.  
+
+**Upskilling & Fulfilment:**  
+
+As my previous course of study and work did not require coding skills and knowledge, I felt that I had missed out on learning how to program.  
+
+Being a reflective individual, I was very much self-aware that I should upgrade myself in terms of learning how to code and use the different types of programming languages.  
+
+My favourite subjects in school were Math and Physics. As a highly analytical and detailed individual, I love problem solving.  
+
+The adrenaline and satisfaction when a program runs correctly without any bugs in the end keeps me motivated to learn. The aha lightbulb moment when I learn how to program more efficiently also inspires me to learn how to write efficient code.  
+
+Being able to problem solve and create/ build something tangible like an app or website, or provide solutions to business problems by analysing and modelling data sets, gives me a high sense of achievement and fulfilment.  
+
+## MY GOALS:    
+
+I hope that by embarking on this learning journey, I can hone my programming & business skills.  
+
+Eventually, I want to become a more effective problem solver who can create useful algorithms & solutions such as web automation, mobile apps, websites and games etc., as I become more proficient and confident in programming.  
+
+I also hope to be able to generate insights and provide solutions to solve business problems using data analytics and problem solving skills.  
+
+---  
 
 ### Programming skills I gained:  
-Kindly refer to my **[blog posts](https://liawbeile.github.io/archive/)** in this site for the detailed programming journey I embarked on this year.  
+
+Hope you have a great time reading my **[blog posts](https://liawbeile.github.io/archive/)** about my programming journey that I embarked on this year.  
+It has been and is continuing to be tons of fun learning coding and building programs!  
 
 ### Digital & Business skills I gained:  
 
@@ -63,45 +93,9 @@ In RISE by BCG, in the month of Apr 2021:
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 - Applied SCRUM / Agile practices during group project meetings by means of sprint planning, sprint reviews, sprint retrospectives after every 1-2 meetings.  
-
-    >_As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._  
-    >     
-    >_We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._             
-    >    
-    >_We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
+    _As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._       
+    _We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._   
+    _We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
 
 **_May 2021:_**  
 -To be updated-  
-
----
-
-
-## WHY I LEARN PROGRAMMING:  
-
-**Creating value & Employability:**  
-
-Digital skills are getting increasingly relevant in today’s world, and knowing about programming languages and how to use them are some of the most sought-after tech skills which employers value and that are essential in problem solving, increasing productivity, creating products and generating solutions.  
-
-When I searched for job opportunities where I could learn new skills to upgrade myself, many job descriptions state a preference for candidates to have aptitudes in various programming languages, especially Python and SQL.  
-
-**Upskilling myself & Finding purpose:**  
-
-As my course of study and work did not require coding skills and knowledge previously, I felt that I had missed out on learning how to program.  
-
-Being a reflective individual, I was very much self-aware that I should definitely upgrade myself in terms of learning how to code and use the different types of programming languages.  
-
-My favourite subjects in school were Math and Physics. As a highly analytical and detailed individual, I love problem solving.  
-
-The adrenaline and feeling of satisfaction when a program runs correctly without any bugs in the end keeps me motivated to learn. The aha lightbulb moment when I learn how to program more efficiently in a different manner also inspires me to want to learn how to write efficient code.  
-
-These are reasons why I wish to pivot from audit, which is more administrative in nature, into the tech field or doing data analytics, where I can problem solve and create/ build something tangible like an app or website, or provide solutions to business problems by analysing and modelling data sets.  
-
-These give me a higher sense of achievement and fulfilment.  
-
-## MY GOALS:    
-
-I hope that by embarking on this learning journey, I can hone my programming & business skills.  
-
-Eventually, I want to become a more effective problem solver who can create useful algorithms & solutions such as mobile apps, websites and games etc. as I become more proficient and confident in programming.  
-
-I also hope to be able to provide solutions to solve business problems using data analytics and problem solving skills.  
