@@ -93,7 +93,7 @@ In RISE by BCG, in the month of Apr 2021:
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 - Applied SCRUM / Agile practices during group project meetings by means of sprint planning, sprint reviews, sprint retrospectives after every 1-2 meetings.  
-    _As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._       
+    - _As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._       
     _We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._   
     _We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
 
