@@ -8,18 +8,12 @@ Welcome.
 
 I hope you find the things here informative and useful for your learning or for your discovery about my learning process.
 
-<p>
-
 ## ABOUT ME:  
-
+  
 <div align="center">
-  <br>
   <img src="https://media-exp1.licdn.com/dms/image/C5603AQEz4LRj5xjmig/profile-displayphoto-shrink_800_800/0/1617568494109?e=1626307200&v=beta&t=jc2OQfEbOhMMrDMRKlycO6fQT9NZADAxntNW0vIMWtU" alt="Profile Pic" width="200"/>
-  <br>  
 </div>  
-<p>
-<p>
-
+  
 Hello there!  
 
 My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.  
