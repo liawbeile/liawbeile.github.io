@@ -65,7 +65,7 @@ It has been and is continuing to be tons of fun learning coding and building pro
 
 **_Jan 2021:_**  
 Attended a Scrum course and learnt about Agile methodologies and how Agile helps to create effective teams.  
-- Attained the ScrumMaster certification issued by Scrum Alliance.
+- Attained the [ScrumMaster certification](https://www.linkedin.com/in/coraliawbeile/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB1SwtgByya1Dj5dI43IgArVUL5b9teBnrk,1610270766537)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BHAVe7decRyK76lUAb7H1rg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view) issued by Scrum Alliance.
      - Learnt to apply scrum practices like sprint planning, planning/inserting/shifting tasks in product backlogs, setting definitions of 'done' for tasks, sprint review and sprint retrospectives.  
 
 **_Feb 2021:_**  
