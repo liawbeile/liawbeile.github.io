@@ -69,17 +69,15 @@ Attended a Scrum course and learnt about Agile methodologies and how Agile helps
      - Learnt to apply scrum practices like sprint planning, planning/inserting/shifting tasks in product backlogs, setting definitions of 'done' for tasks, sprint review and sprint retrospectives.  
 
 **_Feb 2021:_**  
-I enrolled in a 6-month digital upskilling program called [RISE by Boston Consulting Group (BCG)](https://rise.bcg.com/business-data-analytics/) in the business and data analytics track, to build my business and digital skills.  
-
-The course is currently ongoing, and is expected to end in early Aug 2021.  
+I enrolled in a 6-month digital upskilling program called [RISE by Boston Consulting Group (BCG)](https://rise.bcg.com/business-data-analytics/) in the business and data analytics track, to build my business and digital skills. The course ongoing and expected to end in early Aug 2021.  
 - Gained business skills including creative problem solving, modelling and analysis, story lining and slide writing.  
-- Completed a case project and presentation on how to increase A. Co.'s consumer electronics revenues, in a team of 6 members.  
+- Completed a [case project and presentation](https://github.com/liawbeile/liawbeile.github.io/blob/master/Business%20Essentials%20Project%20-%20Company%20A.pdf) on how to increase A. Co.'s consumer electronics revenues, in a team of 6 members.  
     - Examples of problem solving skills applied includes SCQ (Situation Complication Question) framework, basic data modelling involving use of assumptions and based on relevant historical or projected datasets across the different years (e.g. revenues by products, revenues by country, product price comparisons, technology brand values & more), story lining and slide writing.  
 
 **_Mar 2021:_**  
-In RISE by BCG, in the month of Mar 2021:  
+In RISE by BCG:  
 - Attained human centred design (HCD) skills involving the 4 main phases of research, synthesise, produce & evaluate.  
-- Completed a case project and presentation on how to improve the customer journey for a non tech-savvy S. Co. mobile phone and plan customer, in the same team of 6 members.  
+- Completed a [case project and presentation](https://github.com/liawbeile/liawbeile.github.io/blob/master/Human%20Centred%20Design%20-%20Company%20S.pdf) on how to improve the customer journey for a non tech-savvy S. Co. mobile phone and plan customer, in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
@@ -88,14 +86,17 @@ In RISE by BCG, in the month of Mar 2021:
     - Now, I am confident in using PowerBI, a data visualisation tool.  
  
 **_Apr 2021:_**  
-In RISE by BCG, in the month of Apr 2021:  
-- Completed a case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in S. Corporation when visiting Singapore, in the same team of 6 members.  
+In RISE by BCG:  
+- Completed a [case project and presentation](https://github.com/liawbeile/liawbeile.github.io/blob/master/Hackathon%20-%20S%20Corp.pdf) on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in S. Corporation when visiting Singapore, in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 - Applied SCRUM / Agile practices during group project meetings by means of sprint planning, sprint reviews, sprint retrospectives after every 1-2 meetings.  
-    - _As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._       
-    _We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._   
-    _We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
 
-**_May 2021:_**  
--To be updated-  
+_As it had been 3 months of working within the same team, we learnt to adapt to one anothers' working styles and contributed to the project in different ways._       
+_We had contrasting views on ideas at times, but we were able to sound out one anothers' opinions and learn from one another, and agree to go with the majority in case opinions still stood strong._   
+_We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
+
+**_May 2021 to Aug 2021_**  
+In RISE by BCG: 
+- Created and completed a [PowerBI visualisation project](https://github.com/liawbeile/liawbeile.github.io/blob/master/PowerBI%20Mini%20Project%20-%20Automotive%20Company.pdf).
+- I will be continuing to learn about programming, statistics and machine learning, and I will share my learning points for some of them in **[my blog posts](https://liawbeile.github.io/archive/)**.
