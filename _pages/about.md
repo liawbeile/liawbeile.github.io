@@ -98,7 +98,7 @@ _We had contrasting views on ideas at times, but we were able to sound out one a
 
 _We played to our strengths in the project and presentation, as all of us had strengths especially in different areas:  (project management and keeping the team on track in terms of goals and timelines; meticulousness and critical thinking/ devil's advocate role; good speaking & answering skills; great design skills; people and network resourcefulness; informational resourcefulness) - all these contributed to a great team outcome._  
 
-**_May 2021 to Aug 2021_**  
+**_May 2021 to Aug 2021:_**  
 In RISE by BCG: 
 - Created and completed a [PowerBI visualisation project](https://github.com/liawbeile/liawbeile.github.io/blob/master/PowerBI%20Mini%20Project%20-%20Automotive%20Company.pdf).
-- I will be continuing to learn about programming, statistics and machine learning, and I will share my learning points for some of them in **[my blog posts](https://liawbeile.github.io/archive/)**.
+- I will be continuing to learn about programming, statistics and machine learning, and I will share about some of them in **[my blog posts](https://liawbeile.github.io/archive/)**.
