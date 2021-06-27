@@ -16,9 +16,9 @@ Hello there!
 
 My name is **[Cora Liaw Bei Le](https://www.linkedin.com/in/coraliawbeile)**.  
 
-**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/), a 6 month upskilling course, in the Business and Data Analytics track _(2021)_.
+**Presently, I am** participating in the [Boston Consulting Group's RISE programme](https://rise.bcg.com/business-data-analytics/) in the Business and Data Analytics track _(2021)_.
 
-**I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with 2-3 years of audit work experience in the Big 4 Accounting Firm _(2018-2020)_ and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (Honours, Distinction) _(2015-2018)_.  
+**I am** an ex-[KPMG](https://home.kpmg/sg/en/home.html) Senior Auditor with approx 2.5 years of audit work experience in the Big 4 firm and also a [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/index) graduate with a Bachelors’ degree in Accountancy (Honours, Distinction).  
 
 **Before 2021**, I largely specialise in finance / accounting / auditing, and am proficient in Microsoft Excel, PowerPoint, Word, Outlook, etc. In KPMG, I had the opportunity to learn audit softwares like IDEA and eAudit, and to import, sanitise, transform and analyse financial data using KPMG CLARA data analytics platform.  
 
@@ -42,7 +42,7 @@ Being a reflective individual, I was very much self-aware that I should upgrade 
 
 My favourite subjects in school were Math and Physics. As a highly analytical and detailed individual, I love problem solving.  
 
-The adrenaline and satisfaction when a program runs correctly without any bugs in the end keeps me motivated to learn. The aha lightbulb moment when I learn how to program more efficiently also inspires me to learn how to write efficient code.  
+The adrenaline and satisfaction when a program runs correctly without any bugs in the end keeps me motivated to learn. The aha moment when I learn how to program more efficiently also inspires me to learn how to write efficient code.  
 
 Being able to problem solve and create/ build something tangible like an app or website, or provide solutions to business problems by analysing and modelling data sets, gives me a high sense of achievement and fulfilment.  
 
@@ -71,13 +71,13 @@ Attended a Scrum course and learnt about Agile methodologies and how Agile helps
 **_Feb 2021:_**  
 I enrolled in a 6-month digital upskilling program called [RISE by Boston Consulting Group (BCG)](https://rise.bcg.com/business-data-analytics/) in the business and data analytics track, to build my business and digital skills. The course ongoing and expected to end in early Aug 2021.  
 - Gained business skills including creative problem solving, modelling and analysis, story lining and slide writing.  
-- Completed a [case project and presentation on how to increase A. Co.'s consumer electronics revenues](https://github.com/liawbeile/liawbeile.github.io/blob/master/Business%20Essentials%20Project%20-%20Company%20A.pdf), in a team of 6 members.  
+- Completed a [case project and presentation on how to increase A. Co.'s consumer electronics revenues](https://github.com/liawbeile/liawbeile.github.io/blob/master/documents/Business%20Essentials%20Project%20-%20Company%20A.pdf), in a team of 6 members.  
     - Examples of problem solving skills applied includes SCQ (Situation Complication Question) framework, basic data modelling involving use of assumptions and based on relevant historical or projected datasets across the different years (e.g. revenues by products, revenues by country, product price comparisons, technology brand values & more), story lining and slide writing.  
 
 **_Mar 2021:_**  
 In RISE by BCG:  
 - Attained human centred design (HCD) skills involving the 4 main phases of research, synthesise, produce & evaluate.  
-- Completed a [case project and presentation on how to improve the customer journey for a non tech-savvy S. Co. mobile phone and plan customer](https://github.com/liawbeile/liawbeile.github.io/blob/master/Human%20Centred%20Design%20-%20Company%20S.pdf), in the same team of 6 members.  
+- Completed a [case project and presentation on how to improve the customer journey for a non tech-savvy S. Co. mobile phone and plan customer](https://github.com/liawbeile/liawbeile.github.io/blob/master/documents/Human%20Centred%20Design%20-%20Company%20S.pdf), in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 
@@ -87,7 +87,7 @@ In RISE by BCG:
  
 **_Apr 2021:_**  
 In RISE by BCG:  
-- Completed a [case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in S. Corporation when visiting Singapore](https://github.com/liawbeile/liawbeile.github.io/blob/master/Hackathon%20-%20S%20Corp.pdf), in the same team of 6 members.  
+- Completed a [case project and presentation on how to improve the visitor journey for a family of international travellers seeking to experience fun and exciting activities together in S. Corporation when visiting Singapore](https://github.com/liawbeile/liawbeile.github.io/blob/master/documents/Hackathon%20-%20S%20Corp.pdf), in the same team of 6 members.  
     - Examples of the design thinking principles and practices applied during the project include: user interviews, stakeholder journey mapping, persona mapping, Crazy 8s, Creative Matrix, Concept Poster, Evaluation.  
     - Methods used involved Card Sorting, Affinity diagramming, DVF Analysis, Impact/Difficulty Analysis, Storyboarding, Wireframing, Product Metrics.  
 - Applied SCRUM / Agile practices during group project meetings by means of sprint planning, sprint reviews, sprint retrospectives after every 1-2 meetings.  
@@ -100,5 +100,5 @@ _We played to our strengths in the project and presentation, as all of us had st
 
 **_May 2021 to Aug 2021:_**  
 In RISE by BCG: 
-- Created and completed a [PowerBI visualisation project](https://github.com/liawbeile/liawbeile.github.io/blob/master/PowerBI%20Mini%20Project%20-%20Automotive%20Company.pdf).
+- Created and completed a [PowerBI visualisation project](https://github.com/liawbeile/liawbeile.github.io/blob/master/documents/PowerBI%20Mini%20Project%20-%20Automotive%20Company.pdf).
 - I will be continuing to learn about programming, statistics and machine learning, and I will share about some of them in **[my blog posts](https://liawbeile.github.io/archive/)**.
